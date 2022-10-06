@@ -28,3 +28,7 @@ FOLDER_PATH = 'C:\\Users\\Work\\Desktop\\Cache'
 ```
 
 If you do not use a raw string, don't forget to encode the backslashes!
+
+After this, you can run `file_to_extension.py` normally. The resulting output will
+be at your `FOLDER_PATH\Saved`. Every time you want to rerun the script, you will
+need to delete your Saved folder.
