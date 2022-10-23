@@ -35,7 +35,7 @@ need to delete your Saved folder.
 
 ## Header instructions (from file_to_extension.py)
 
-```
+```python
 # COMPRESSED FILETYPE HEADERS BELOW
 '1F 8B 08': '.GZ',
 '37 7A BC AF 27 1C': '.7Z',
